@@ -48,6 +48,7 @@ console.log(MY_FAVORITE_BRANDS[0]);
 // 1. Create a variable and assign it the number of products
 // 2. Log the variable
 
+Gros nique sa mere github
 // 🎯 TODO 3: Brands name
 // 1. Create a variable and assign it the list of brands name only
 // 2. Log the variable
